@@ -938,6 +938,12 @@
             "state" : "translated",
             "value" : "%lld."
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld。"
+          }
         }
       }
     },
@@ -3310,7 +3316,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "影像"
+            "value" : "圖片"
           }
         }
       }
@@ -8069,7 +8075,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "#標籤 %@"
+            "value" : "主題標籤 %@"
           }
         }
       }
@@ -20563,6 +20569,12 @@
             "state" : "translated",
             "value" : "Aggiunge i tasti @ e # alla tastiera per scrivere menzioni e hashtag più velocemente."
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在鍵盤上直接加入 @ 和 # 鍵，方便提及和主題標籤。"
+          }
         }
       }
     },
@@ -20833,6 +20845,12 @@
             "state" : "translated",
             "value" : "Texto alternativo para a imagem"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖片的描述文字"
+          }
         }
       }
     },
@@ -20936,6 +20954,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versões da API"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API 版本"
           }
         }
       }
@@ -21231,6 +21255,12 @@
             "state" : "translated",
             "value" : "Comportamento do botão Boost"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轉嘟鈕功能"
+          }
         }
       }
     },
@@ -21265,6 +21295,12 @@
             "state" : "translated",
             "value" : "Legenda"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "說明文字"
+          }
         }
       }
     },
@@ -21298,6 +21334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Legendar sua postagem"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您嘟文的說明文字"
           }
         }
       }
@@ -23193,6 +23235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descrições (alternativas) para suas imagens na ordem"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "各影像依序的描述文字"
           }
         }
       }
@@ -27603,6 +27651,12 @@
             "state" : "translated",
             "value" : "Erro: %@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "錯誤：%@"
+          }
         }
       }
     },
@@ -29910,6 +29964,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Carica tutti i nuovi post delle timeline (fino a 800) invece che solo gli ultimi 40 + i restanti manualmente."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載全部時間軸內容（最多 800）而非最新 40 嘟文和手動"
           }
         }
       }
@@ -32329,6 +32389,12 @@
             "state" : "translated",
             "value" : "Caricamento completo timeline"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間軸全下載"
+          }
         }
       }
     },
@@ -32467,7 +32533,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "影像"
+            "value" : "圖片"
           }
         }
       }
@@ -32503,6 +32569,12 @@
             "state" : "translated",
             "value" : "Descrição da imagem"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖片描述"
+          }
         }
       }
     },
@@ -32536,6 +32608,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Descrições da imagem"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖片描述"
           }
         }
       }
@@ -32599,7 +32677,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Mastodon 上發表的影像"
+            "value" : "在 Mastodon 上發表的圖片"
           }
         }
       }
@@ -32635,6 +32713,12 @@
             "state" : "translated",
             "value" : "Imagens para postar no Mastodon"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Mastodon 上發表的圖片"
+          }
         }
       }
     },
@@ -32668,6 +32752,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Imagens"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圖片"
           }
         }
       }
@@ -32773,6 +32863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Administrador da Instância"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "伺服器管理員"
           }
         }
       }
@@ -34392,6 +34488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mantiene la home aggiornata in tempo reale utilizzando lo streaming quando disponibile. Disattiva in caso di problemi di prestazioni."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "讓主時間軸保持最新鮮。如有效能問題可以關閉。"
           }
         }
       }
@@ -37185,6 +37287,12 @@
             "state" : "translated",
             "value" : "Statistiche"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "度量指標"
+          }
         }
       }
     },
@@ -37218,6 +37326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Usuários Ativos Mensais"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每月活躍用戶"
           }
         }
       }
@@ -37322,6 +37436,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sem imagens fornecidas para postagem."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無可供發表的圖片"
           }
         }
       }
@@ -37763,6 +37883,12 @@
             "state" : "translated",
             "value" : "Account moderati"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受審核帳戶"
+          }
         }
       }
     },
@@ -37791,6 +37917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limitati dai moderatori dei server"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "受伺服器審核限制"
           }
         }
       }
@@ -37940,6 +38072,12 @@
             "state" : "translated",
             "value" : "Creati negli ultimi 30 giorni"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "三十日內開戶"
+          }
         }
       }
     },
@@ -38087,6 +38225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E che ti seguono da meno di 3 giorni"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "及跟隨您少於三日"
           }
         }
       }
@@ -38236,6 +38380,12 @@
             "state" : "translated",
             "value" : "Finché non li approvi manualmente"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "直到您手動許可他們"
+          }
         }
       }
     },
@@ -38383,6 +38533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A meno che non sia una risposta a una tua menzione o se segui il mittente"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "除非是回覆您的提及或您跟隨發文者"
           }
         }
       }
@@ -38532,6 +38688,12 @@
             "state" : "translated",
             "value" : "Seleziona"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選取"
+          }
         }
       }
     },
@@ -38560,6 +38722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seleziona tutto"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全選"
           }
         }
       }
@@ -43220,7 +43388,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "發表現狀圖像"
+            "value" : "發表現狀圖片"
           }
         }
       }
@@ -43290,7 +43458,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Mastodon 上發表影像"
+            "value" : "在 Mastodon 上發表圖片"
           }
         }
       }
@@ -43459,6 +43627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicou %lld imagens no Mastodon"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Mastodon 上發表了 %lld 張圖片"
           }
         }
       }
@@ -43924,7 +44098,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刪除快取記憶裡所有影像和視訊"
+            "value" : "刪除快取記憶裡所有圖片和視訊"
           }
         }
       }
@@ -44638,6 +44812,12 @@
             "state" : "translated",
             "value" : "Enviar uma imagem ou várias imagens para o Mastodon com o Ice Cubes sem abrir o app"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不開啟 Ice Cubes 也上傳圖片給 Mastodon"
+          }
         }
       }
     },
@@ -44672,6 +44852,12 @@
             "state" : "translated",
             "value" : "Enviar imagens (em segundo plano)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上傳圖片（背景）"
+          }
         }
       }
     },
@@ -44705,6 +44891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enviar imagens para o Mastodon"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上傳圖片給 Mastodon"
           }
         }
       }
@@ -48879,6 +49071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avatar e copertine animati"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動畫頭像與橫幅圖片"
           }
         }
       }
@@ -55268,6 +55466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abilita emoji animate"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用動畫表情符號"
           }
         }
       }
@@ -66859,7 +67063,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用影像分享本嘟文"
+            "value" : "用圖片分享本嘟文"
           }
         }
       }
@@ -73167,7 +73371,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "拷貝影像"
+            "value" : "拷貝圖片"
           }
         }
       }
@@ -73286,7 +73490,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存影像"
+            "value" : "儲存圖片"
           }
         }
       }
@@ -73405,7 +73609,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享影像"
+            "value" : "分享圖片"
           }
         }
       }
@@ -77993,6 +78197,18 @@
               }
             }
           }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 引述"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -78849,6 +79065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Transmitir a timeline principal"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主時間軸串流"
           }
         }
       }
@@ -82379,6 +82601,12 @@
             "state" : "translated",
             "value" : "Verberg posts van bots"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隱藏機器人嘟文"
+          }
         }
       }
     },
@@ -82494,8 +82722,8 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hide posts with media"
+            "state" : "translated",
+            "value" : "隱藏含有媒體的嘟文"
           }
         }
       }
@@ -85058,6 +85286,12 @@
             "state" : "translated",
             "value" : "Salvato nelle bozze"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存至草稿"
+          }
         }
       }
     },
@@ -85092,6 +85326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Post inviato"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘟文送出"
           }
         }
       }
@@ -85128,6 +85368,12 @@
             "state" : "translated",
             "value" : "Pubblicazione"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘟文送出中"
+          }
         }
       }
     },
@@ -85162,6 +85408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impossibile eliminare il post"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法刪除嘟文"
           }
         }
       }
@@ -85198,6 +85450,12 @@
             "state" : "translated",
             "value" : "Post eliminato"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘟文刪除"
+          }
         }
       }
     },
@@ -85232,6 +85490,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elimino post"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘟文刪除中"
           }
         }
       }
@@ -85837,6 +86101,12 @@
             "state" : "translated",
             "value" : "Cortar conteúdo do status"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截短狀態內容"
+          }
         }
       }
     },
@@ -85957,7 +86227,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "用 Ice Cubes 在 Mastodon 上發表圖像"
+            "value" : "用 Ice Cubes 在 Mastodon 上發表圖片"
           }
         }
       }
@@ -86023,6 +86293,12 @@
             "state" : "translated",
             "value" : "可见范围"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能見度"
+          }
         }
       }
     },
@@ -86086,6 +86362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "嘟文可见范围"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您嘟文的能見度"
           }
         }
       }
